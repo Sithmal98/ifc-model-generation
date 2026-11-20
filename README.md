@@ -25,7 +25,6 @@ Python, IfcOpenShell, IFC4
 ## How to run
 
     pip install ifcopenshell
-    python analysis.py
-    python create_model.py
+    python IFC.py
 
 
